@@ -1,0 +1,63 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "code": "C1",
+      "name": "Course 1"
+    },
+    {
+      "id": 2,
+      "code": "C2",
+      "name": "Course 2"
+    },
+    {
+      "id": 3,
+      "code": "C3",
+      "name": "Course 3"
+    },
+    {
+      "id": 4,
+      "code": "C4",
+      "name": "Course 4"
+    },
+    {
+      "id": 5,
+      "code": "C5",
+      "name": "Course 5"
+    },
+    {
+      "id": 6,
+      "code": "C6",
+      "name": "Course 6"
+    },
+    {
+      "id": 7
+    }
+  ],
+  "puestos": [
+    {
+      "id": 1,
+      "name": "Puesto 1"
+    },
+    {
+      "id": 2,
+      "name": "Puesto 2"
+    },
+    {
+      "id": 3,
+      "name": "Puesto 3"
+    },
+    {
+      "id": 4,
+      "name": "Puesto 4"
+    },
+    {
+      "id": 5,
+      "name": "Puesto 5"
+    },
+    {
+      "id": 6,
+      "name": "Puesto 6"
+    }
+  ]
+}
